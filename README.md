@@ -1,6 +1,6 @@
 ## Olá, Seja bem vindo ao meu perfil! 
 
-- 🔭 Cursando Ciência da computação  na Universidade Estadual do Norte do Parana - UENP
+- 🔭 Cursando Ciência da computação  na Universidade Estadual do Norte do Paraná - UENP
 - 🌱 Estudando C.
 
 ##
