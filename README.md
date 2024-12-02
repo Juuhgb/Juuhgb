@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Ciência da computação  na Universidade Estadual do Norte do Paraná - UENP
 
-##
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Juuhgb&show_icons=true&theme=dark"
