@@ -3,17 +3,10 @@
 - 🔭 Cursando Ciência da computação  na Universidade Estadual do Norte do Paraná - UENP
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Juuhgb&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Juuhgb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Juuhgb&show_icons=true" />
-</picture>
+<div>
+<img width="52%" src="https://github-readme-stats.vercel.app/api?username=Juuhgb&show_icons=true&theme=nord&hide_border=true&rank_icon=github">
+<img width="46.7%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juuhgb&layout=compact&theme=nord&hide_border=true">
+</div>
 
 
 ##
