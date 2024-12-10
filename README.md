@@ -1,4 +1,4 @@
-## Olá, Seja bem vindo ao meu perfil! 
+## Bom dia! Seja bem vindo ao meu perfil.
 
 - 🔭 Cursando Ciência da computação  na Universidade Estadual do Norte do Paraná - UENP
 
